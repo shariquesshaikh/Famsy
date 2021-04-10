@@ -1,0 +1,53 @@
+.body{
+
+  background-color: grey;
+
+
+}
+
+.content {
+    max-width: 500px;
+    margin: auto;
+
+  }
+
+/* #college{
+  padding-left: 100px;
+}
+
+
+#admin{
+
+  margin-left: 122px;
+
+}
+
+#login{
+  margin-left:130px;
+} */
+
+
+.video-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: -1;
+  position: fixed;
+  padding-top: fixed;
+}
+
+.color-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: none;
+  width: 100%;
+  height: 100vh;
+  opacity: 0.5;
+}
+
+#jumbotron
+{
+  opacity: 0.7;
+}
